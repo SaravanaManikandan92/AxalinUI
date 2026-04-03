@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*page=
+Disallow: /tag/*page=
+Disallow: /category/*page=
+Disallow: /blogs?page=
+
+Sitemap: https://axalingroup.com/sitemap.xml
+Sitemap: https://axalingroup.com/blogs/sitemap.xml
+Sitemap: https://axalingroup.com/blogs/tag/sitemap.xml
+Sitemap: https://axalingroup.com/blogs/category/sitemap.xml
