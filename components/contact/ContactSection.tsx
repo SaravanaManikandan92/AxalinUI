@@ -210,8 +210,9 @@ export default function ContactSection() {
                         USA Office
                       </h3>
                       <address className="mt-3 space-y-1 text-sm/6 text-gray-600 not-italic">
-                        <p>#4004 Altus Falls Way, Leander, </p>
-                        <p>Texas – 78641</p>
+                        <p>#1,Chisholm Trail Rd Ste 450,Round Rock </p>
+                        <p>Texas – 78681-5094</p>
+                        <p>Phone: +1 (518) 708-8853</p>
                       </address>
                     </div>
                     <div className="rounded-2xl bg-gray-50 p-10">
