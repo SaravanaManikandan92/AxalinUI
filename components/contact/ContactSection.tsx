@@ -202,7 +202,7 @@ export default function ContactSection() {
                       </h3>
                       <address className="mt-3 space-y-1 text-sm/6 text-gray-600 not-italic">
                         <p>#1, Nandanam, 5th Main Road,</p>
-                        <p>OMBR Layout, Bangalore</p>
+                        <p>OMBR Layout, Bangalore-560043</p>
                       </address>
                     </div>
                     <div className="rounded-2xl bg-gray-50 p-10">
